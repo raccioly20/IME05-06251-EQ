@@ -1,0 +1,11 @@
+---
+title: "IME05-06251-EQ"
+---
+
+Bom dia / Boa tarde / Boa Noite,
+
+Aqui vocês vão encontrar alguns dos exemplos apresentados em aula, com uso do R. O objetivo é mostrar as possibilidades de aplicação do R nesta disciplina.
+
+Os códigos apresentados em aula serão colocado por aqui também.
+
+\[📖\] <a href="./semanas/Aula01.html" class="link">Explorando 01</a>
