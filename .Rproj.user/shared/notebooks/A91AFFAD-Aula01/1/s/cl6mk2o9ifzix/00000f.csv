@@ -1,0 +1,2 @@
+"0","aneisdepistao <- pistonrings %>% "
+"0","  rename(diametro = diameter, amostra = sample, fase1 = trial)"
